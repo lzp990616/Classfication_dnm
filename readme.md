@@ -3,4 +3,4 @@ https://github.com/lucidrains/lion-pytorch/blob/main/README.md
 
 https://github.com/kekmodel/MPL-pytorch
 
-![Uploading method_imagenet.png…]()
+![Image text](https://raw.github.com/lzp990616 /repositpry/master/classfication_dnm /method_imagenet.jpg)

@@ -7,9 +7,9 @@ https://arxiv.org/pdf/2208.02646.pdf
 
 
 
-## medical imaging dataset
+## Medical imaging dataset
 https://github.com/linhandev/dataset
 
-## classfication method in Imagenet
+## Classfication method in Imagenet
 
 ![Image text](https://github.com/lzp990616/classfication_dnm/blob/main/method_imagenet.png)

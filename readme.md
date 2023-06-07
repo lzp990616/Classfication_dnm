@@ -1,4 +1,7 @@
 ##  Referenced githubs
+bri脑肿瘤数据集
+https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+
 https://github.com/lucidrains/lion-pytorch/blob/main/README.md
 
 https://github.com/d-li14/efficientnetv2.pytorch/tree/main
